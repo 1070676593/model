@@ -14,5 +14,6 @@ public class loginController {
         System.out.println("在zsx1上创建分支zsx2");
         System.out.println("创建分支zsx2后再次提交");
         System.out.println("合并zsx2");
+        System.out.println("分支2合并完成");
     }
 }
