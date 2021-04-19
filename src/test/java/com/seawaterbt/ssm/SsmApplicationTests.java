@@ -12,6 +12,7 @@ public class SsmApplicationTests {
 
     @Test
     public void contextLoads() {
+        System.out.println("主分支");
     }
 
 }
