@@ -15,6 +15,7 @@ public class SsmApplicationTests {
         System.out.println("主分支");
         System.out.println("主分支提交。。。。");
         System.out.println("主分支再次提交。。。");
+        System.out.println("主分支提交，分支1和分支2已经提交");
     }
 
 }
