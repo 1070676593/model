@@ -14,6 +14,7 @@ public class SsmApplicationTests {
     public void contextLoads() {
         System.out.println("主分支");
         System.out.println("主分支提交。。。。");
+        System.out.println("主分支再次提交。。。");
     }
 
 }
