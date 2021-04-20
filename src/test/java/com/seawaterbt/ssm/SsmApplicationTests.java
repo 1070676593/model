@@ -16,6 +16,7 @@ public class SsmApplicationTests {
         System.out.println("zsx-fenzhi1提交，但不提交到git上");
         System.out.println("分支1111111提交");
         System.out.println("分支再次提交。。。。。");
+        System.out.println("分支1已经创建完第二个人分支。。。");
     }
 
 }
